@@ -1,0 +1,14 @@
+.DS_Store
+
+# Editor
+/.vscode/
+/.idea/
+__pycache__
+*.pyc
+
+# Virtual environment
+venv
+
+# database
+migrations
+*.db
